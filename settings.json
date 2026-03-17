@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Burmes.aternos.me",
-    "port": 46208,
+    "ip": "Burmes.aternos.me:57806",
+    "port": 57806,
     "version": "",
     "try-creative": false
   },
